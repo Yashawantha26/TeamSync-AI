@@ -259,8 +259,6 @@ Developed for **CODOTHON 2026** at Rajeev Institute of Technology, Hassan.
 | ------------------- | ----------- |
 | Yashawantha H M     | Team Member |
 | Yashwanth Gowda S N | Team Member |
-| Yashas M J          | Team Member |
-| Vikas D             | Team Member |
 
 ## 🏆 Event Details
 
